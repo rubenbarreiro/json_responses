@@ -1,12 +1,22 @@
 {
-	"services": [{
-    "id": 1,
-    "name": "Carpa Circo - SUERTE 90"
-	}, {
-    "id": 2,
-    "name": "Brinca Brinca - MARROQUIN 2"
-	}, {
-    "id": 3,
-    "name": "Show de titeres - MANUELA BELTRAN"
-	}]
+    "services": [{
+        "tpm_niv_codigo": "CONT",
+        "pra_mop_codigo": "PRES",
+        "mop_nombre": "Presencial",
+        "programa": "TEATRO DE TITERES",
+        "pprl_inicia_en_pea_codigo": 2019071518,
+        "sede": "CALI",
+        "ppr_pas_pra_codigo": "2277",
+        "ppr_proc_peri_codigo": "1",
+        "ppr_pas_crg_codigo": 1,
+        "ppr_pas_jor_codigo": "2",
+        "pprl_lugc_mvyc_codigo": "076001",
+        "tipo": "EDUCACION NO FORMAL",
+        "tias_codigo": "ENOF",
+        "ppr_proc_ano": 2019,
+        "lugar_clase": "SANTIAGO DE CALI",
+        "jornada": "Diurna",
+        "es_competencia": 0,
+        "lugares": []
+    }]
 }
