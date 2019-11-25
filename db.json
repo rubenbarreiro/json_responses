@@ -19,5 +19,25 @@
         "jornada": "Diurna",
         "es_competencia": 0,
         "lugares": []
+    }, {
+        "id": 321,
+        "tpm_niv_codigo": "CONT",
+        "pra_mop_codigo": "PRES",
+        "mop_nombre": "Presencial",
+        "programa": "CASTILLO INFLABLE",
+        "pprl_inicia_en_pea_codigo": 2019071518,
+        "sede": "PALMIRA",
+        "ppr_pas_pra_codigo": "2277",
+        "ppr_proc_peri_codigo": "1",
+        "ppr_pas_crg_codigo": 1,
+        "ppr_pas_jor_codigo": "2",
+        "pprl_lugc_mvyc_codigo": "076001",
+        "tipo": "EDUCACION NO FORMAL",
+        "tias_codigo": "ENOF",
+        "ppr_proc_ano": 2019,
+        "lugar_clase": "SANTIAGO DE CALI",
+        "jornada": "Diurna",
+        "es_competencia": 0,
+        "lugares": []
     }]
 }
