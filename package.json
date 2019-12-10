@@ -1,0 +1,23 @@
+{
+  "name": "json_responses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenbarreiro/json_responses.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubenbarreiro/json_responses/issues"
+  },
+  "homepage": "https://github.com/rubenbarreiro/json_responses#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "morgan": "1.9.1"
+  }
+}

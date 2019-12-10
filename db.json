@@ -1,13 +1,12 @@
 {
     "services": [{
-        "id": 123,
         "tpm_niv_codigo": "CONT",
         "pra_mop_codigo": "PRES",
         "mop_nombre": "Presencial",
         "programa": "TEATRO DE TITERES",
         "pprl_inicia_en_pea_codigo": 2019071518,
         "sede": "CALI",
-        "ppr_pas_pra_codigo": "2277",
+        "ppr_pas_pra_codigo": "2276",
         "ppr_proc_peri_codigo": "1",
         "ppr_pas_crg_codigo": 1,
         "ppr_pas_jor_codigo": "2",
@@ -20,7 +19,6 @@
         "es_competencia": 0,
         "lugares": []
     }, {
-        "id": 321,
         "tpm_niv_codigo": "CONT",
         "pra_mop_codigo": "PRES",
         "mop_nombre": "Presencial",
@@ -37,6 +35,25 @@
         "ppr_proc_ano": 2019,
         "lugar_clase": "SANTIAGO DE CALI",
         "jornada": "Diurna",
+        "es_competencia": 0,
+        "lugares": []
+    }, {
+        "tpm_niv_codigo": "CONT",
+        "pra_mop_codigo": "PRES",
+        "mop_nombre": "Presencial",
+        "programa": "FIESTA FIN DE AÑO COMFANDI CALI",
+        "pprl_inicia_en_pea_codigo": 2019010154,
+        "sede": "CENTRO CAMPESTRE COMFANDI ARROYOHONDO",
+        "ppr_pas_pra_codigo": "2316",
+        "ppr_proc_peri_codigo": "1",
+        "ppr_pas_crg_codigo": 14,
+        "ppr_pas_jor_codigo": "4",
+        "pprl_lugc_mvyc_codigo": "076001",
+        "tipo": "EDUCACION NO FORMAL",
+        "tias_codigo": "ENOF",
+        "ppr_proc_ano": 2019,
+        "lugar_clase": "SANTIAGO DE CALI",
+        "jornada": "Nocturna",
         "es_competencia": 0,
         "lugares": []
     }]
