@@ -1,60 +1,129 @@
 {
-    "services": [{
-        "tpm_niv_codigo": "CONT",
-        "pra_mop_codigo": "PRES",
-        "mop_nombre": "Presencial",
-        "programa": "TEATRO DE TITERES",
-        "pprl_inicia_en_pea_codigo": 2019071518,
-        "sede": "CALI",
-        "ppr_pas_pra_codigo": "2276",
-        "ppr_proc_peri_codigo": "1",
-        "ppr_pas_crg_codigo": 1,
-        "ppr_pas_jor_codigo": "2",
-        "pprl_lugc_mvyc_codigo": "076001",
-        "tipo": "EDUCACION NO FORMAL",
-        "tias_codigo": "ENOF",
-        "ppr_proc_ano": 2019,
-        "lugar_clase": "SANTIAGO DE CALI",
-        "jornada": "Diurna",
-        "es_competencia": 0,
-        "lugares": []
-    }, {
-        "tpm_niv_codigo": "CONT",
-        "pra_mop_codigo": "PRES",
-        "mop_nombre": "Presencial",
-        "programa": "CASTILLO INFLABLE",
-        "pprl_inicia_en_pea_codigo": 2019071518,
-        "sede": "PALMIRA",
-        "ppr_pas_pra_codigo": "2277",
-        "ppr_proc_peri_codigo": "1",
-        "ppr_pas_crg_codigo": 1,
-        "ppr_pas_jor_codigo": "2",
-        "pprl_lugc_mvyc_codigo": "076001",
-        "tipo": "EDUCACION NO FORMAL",
-        "tias_codigo": "ENOF",
-        "ppr_proc_ano": 2019,
-        "lugar_clase": "SANTIAGO DE CALI",
-        "jornada": "Diurna",
-        "es_competencia": 0,
-        "lugares": []
-    }, {
-        "tpm_niv_codigo": "CONT",
-        "pra_mop_codigo": "PRES",
-        "mop_nombre": "Presencial",
-        "programa": "FIESTA FIN DE AÑO COMFANDI CALI",
-        "pprl_inicia_en_pea_codigo": 2019010154,
-        "sede": "CENTRO CAMPESTRE COMFANDI ARROYOHONDO",
-        "ppr_pas_pra_codigo": "2316",
-        "ppr_proc_peri_codigo": "1",
-        "ppr_pas_crg_codigo": 14,
-        "ppr_pas_jor_codigo": "4",
-        "pprl_lugc_mvyc_codigo": "076001",
-        "tipo": "EDUCACION NO FORMAL",
-        "tias_codigo": "ENOF",
-        "ppr_proc_ano": 2019,
-        "lugar_clase": "SANTIAGO DE CALI",
-        "jornada": "Nocturna",
-        "es_competencia": 0,
-        "lugares": []
-    }]
+  "records": [{
+      "student": "16269",
+      "periods": [{
+          "id": 1,
+          "name": "Primer periodo",
+          "url": "http://comfandiprueba3.datasae.com/imagenes/documentos/boletin_primer_periodo_14023.pdf",
+          "active": true
+        },
+        {
+          "id": 2,
+          "name": "Segundo periodo",
+          "url": "",
+          "active": false
+        },
+        {
+          "id": 3,
+          "name": "Tercer periodo",
+          "url": "",
+          "active": false
+        },
+        {
+          "id": 4,
+          "name": "Cuarto Periodo",
+          "url": "",
+          "active": false
+        },
+        {
+          "id": 5,
+          "name": "Periodo Final",
+          "url": "",
+          "active": false
+        }
+      ]
+    },
+    {
+      "student": "8370",
+      "periods": [{
+          "id": 1,
+          "name": "Primer periodo",
+          "url": "http://comfandiprueba3.datasae.com/imagenes/documentos/boletin_primer_periodo_6253.pdf",
+          "active": true
+        },
+        {
+          "id": 2,
+          "name": "Segundo periodo",
+          "url": "",
+          "active": false
+        },
+        {
+          "id": 3,
+          "name": "Tercer periodo",
+          "url": "",
+          "active": false
+        },
+        {
+          "id": 4,
+          "name": "Cuarto Periodo",
+          "url": "",
+          "active": false
+        },
+        {
+          "id": 5,
+          "name": "Periodo Final",
+          "url": "",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "services": [{
+    "tpm_niv_codigo": "CONT",
+    "pra_mop_codigo": "PRES",
+    "mop_nombre": "Presencial",
+    "programa": "TEATRO DE TITERES",
+    "pprl_inicia_en_pea_codigo": 2019071518,
+    "sede": "CALI",
+    "ppr_pas_pra_codigo": "2276",
+    "ppr_proc_peri_codigo": "1",
+    "ppr_pas_crg_codigo": 1,
+    "ppr_pas_jor_codigo": "2",
+    "pprl_lugc_mvyc_codigo": "076001",
+    "tipo": "EDUCACION NO FORMAL",
+    "tias_codigo": "ENOF",
+    "ppr_proc_ano": 2019,
+    "lugar_clase": "SANTIAGO DE CALI",
+    "jornada": "Diurna",
+    "es_competencia": 0,
+    "lugares": []
+  }, {
+    "tpm_niv_codigo": "CONT",
+    "pra_mop_codigo": "PRES",
+    "mop_nombre": "Presencial",
+    "programa": "CASTILLO INFLABLE",
+    "pprl_inicia_en_pea_codigo": 2019071518,
+    "sede": "PALMIRA",
+    "ppr_pas_pra_codigo": "2277",
+    "ppr_proc_peri_codigo": "1",
+    "ppr_pas_crg_codigo": 1,
+    "ppr_pas_jor_codigo": "2",
+    "pprl_lugc_mvyc_codigo": "076001",
+    "tipo": "EDUCACION NO FORMAL",
+    "tias_codigo": "ENOF",
+    "ppr_proc_ano": 2019,
+    "lugar_clase": "SANTIAGO DE CALI",
+    "jornada": "Diurna",
+    "es_competencia": 0,
+    "lugares": []
+  }, {
+    "tpm_niv_codigo": "CONT",
+    "pra_mop_codigo": "PRES",
+    "mop_nombre": "Presencial",
+    "programa": "FIESTA FIN DE AÑO COMFANDI CALI",
+    "pprl_inicia_en_pea_codigo": 2019010154,
+    "sede": "CENTRO CAMPESTRE COMFANDI ARROYOHONDO",
+    "ppr_pas_pra_codigo": "2316",
+    "ppr_proc_peri_codigo": "1",
+    "ppr_pas_crg_codigo": 14,
+    "ppr_pas_jor_codigo": "4",
+    "pprl_lugc_mvyc_codigo": "076001",
+    "tipo": "EDUCACION NO FORMAL",
+    "tias_codigo": "ENOF",
+    "ppr_proc_ano": 2019,
+    "lugar_clase": "SANTIAGO DE CALI",
+    "jornada": "Nocturna",
+    "es_competencia": 0,
+    "lugares": []
+  }]
 }
